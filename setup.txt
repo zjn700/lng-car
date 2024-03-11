@@ -1,0 +1,96 @@
+   0 ls
+   1 docker
+   2 ls
+   3 npm
+   4 apk add nodejs npm
+   5 ls
+   6 npm
+   7 npx
+   8 npm install -g @angular/cli
+   9 ng new lng-car
+  10 ng serve
+  11 npm install
+  12 ng serve
+  13 git
+  14 apk
+  15 apk search git
+  16 apk add git
+  17 git
+  18 git init
+  19 git status
+  20 git add .
+  21 git status
+  22 git commit -m "first ng commit"
+  23 git config --global user.email "zjn700-01@yahoo.com"
+  24 git config --global user.name "zjn700"
+  25 git commit -m "first ng commit"
+  26 git push
+  27 git remote add origin git@github.com:zjn700/lng-car.git
+  28 git push
+  29 git push master
+  30 git
+  31 git status
+  32 git push master
+  33 git push -u origin master
+  34 git remote add origin git@github.com:zjn700/lng-car.git
+  35 git push -u origin main
+  36 git push --set-upstream origin master
+  37 git branch -m master main
+  38 git push -u origin main
+  39 git ls
+  40 git remote add origin https://github.com/zjn700/lng-car.git
+  41 git -help
+  42 git h
+  43 git help
+  44 git rm
+  45 git shoe
+  46 git show
+  47 git help
+  48 git push .
+  49 git status
+  50 git push 
+  51 git push --set-upstream origin main
+  52 git remote set-url https://github.com/zjn700/lng-car.git
+  53 git remote set-url origin  https://github.com/zjn700/lng-car.git
+  54 git push 
+  55 git push -u origin master
+  56 git push -u origin main
+  57 git remote set-url origin git@github.com:zjn700/lng-car.git
+  58 git push -u origin main
+  59 ls -al ~/.ssh
+  60 ssh-keygen -t ed25519 -C "zjn700-01@yahoo.com"
+  61 apk search ssh-keygen
+  62 apk add openssh-keygen
+  63 ssh-keygen -t ed25519 -C "zjn700-01@yahoo.com"
+  64 eval "$(ssh-agent -s)"
+  65 apk search ssh-agent
+  66 apk openssh-client
+  67 apk add  openssh-client
+  68 eval "$(ssh-agent -s)"
+  69 open ~/.ssh/config
+  70 ls  ~/.ssh/config
+  71 touch ~/.ssh/config
+  72 ls  ~/.ssh/config
+  73 vim
+  74 apk search vim
+  75 apk add  vim
+  76 vim   ~/.ssh/config
+  77 cat   ~/.ssh/config
+  78 cat ~/.ssh/id_ed25519.pub
+  79 git push -u origin main
+  80 git pull
+  81 git push -u origin main
+  82 git pull
+  83 git pull origin main
+  84 git config pull.rebase false
+  85 git pull origin main
+  86 git push -u origin main
+  87 git pull origin main
+  88 git pull main origin
+  89 git push -u origin main
+  90 git remote add origin git@github.com:zjn700/lng-car.git
+  91 git branch -M main
+  92 git push -u origin main
+  93 ls
+  94 history
+  95 history > setup.txt
